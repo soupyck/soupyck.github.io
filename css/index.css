@@ -1,0 +1,437 @@
+.menu-3 span:hover {
+  font-size: NaNem;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  font: 400 0.625em/1.38 'Proxima Nova Rg';
+  color: rgb(204, 204, 204);
+}
+
+.about {
+  margin: 11px 0 0 18.19922%;
+  font-family: ProximaNova-Bold;
+  font-size: 2.3em;
+  font-weight: normal;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.action {
+  margin: 11px 0 0 1.58073%;
+  font-family: ProximaNova-Bold;
+  font-size: 2.3em;
+  font-weight: normal;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.byline {
+  float: left;
+  clear: both;
+  width: 42.25%;
+  margin: 12px 0 0 1.625%;
+  font-family: Helvetica;
+  font-size: 1.5em;
+  color: rgb(0, 0, 0);
+}
+
+.disclaimer {
+  float: left;
+  clear: both;
+  width: 48.4166666666%;
+  height: 72px;
+  margin: 32px 0 0 1.58073%;
+  background-color: rgba(130, 172, 214, 0.26);
+  text-shadow: 1px 2px 5px rgba(0, 0, 0, .5);
+  font-size: 1em;
+  letter-spacing: 1px;
+  text-indent: 3px;
+  color: rgb(204, 204, 204);
+}
+
+.disclaimer p {
+  margin-bottom: 0.7em;
+}
+
+.footer {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 328px;
+  background-color: rgb(130, 172, 214);
+}
+
+.h1 {
+  float: left;
+  height: 126px;
+  margin: 147px 0 0 33.25%;
+  font-family: Helvetica;
+  font-size: 1.6em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.image {
+  display: block;
+  position: relative;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.main {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 700px;
+  background: url('../images/andrea-ferrario-3WgPZbsDSkE-unsplash.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+.menu {
+  float: left;
+}
+
+.press {
+  margin: 11px 0 0 2.16146%;
+  font-family: ProximaNova-Bold;
+  font-size: 2.3em;
+  font-weight: normal;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.purpose {
+  float: left;
+  width: 37.1666666666%;
+  height: 98px;
+  margin: 26px 0 0 13.08724%;
+  background-color: rgba(130, 172, 214, 0.26);
+  text-shadow: 1px 2px 5px rgba(0, 0, 0, .5);
+  font-size: 1.6em;
+  letter-spacing: 1px;
+  text-indent: 3px;
+  color: rgb(204, 204, 204);
+}
+
+.resources {
+  margin: 11px 0 0 1.5%;
+  font-family: ProximaNova-Bold;
+  font-size: 2.5em;
+  font-weight: normal;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.subtitle {
+  float: left;
+  clear: both;
+  margin-left: 36.9492199999%;
+  font-size: 1.6em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.watch {
+  margin: 11px 0 0 1.91797%;
+  font-family: ProximaNova-Bold;
+  font-size: 2.6em;
+  font-weight: normal;
+  color: rgb(255, 255, 255);
+}
+
+._button {
+  display: block;
+  float: left;
+  clear: both;
+  width: 264px;
+  height: 69px;
+  margin: 49px 0 0 38.91667%;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 3px;
+  background-color: rgba(255, 255, 255, 0);
+  font-family: ProximaNova-Bold;
+  font-size: 1.6em;
+  font-weight: normal;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.image-1 {
+  z-index: 6;
+  width: 102px;
+  margin: 20px 0 0 2.08073%;
+}
+
+.image-2 {
+  z-index: 5;
+  width: 160px;
+  margin: 20px 0 0 2.66146%;
+}
+
+.image-3 {
+  z-index: 2;
+  width: 50px;
+  margin: 75px 0 0 4.32422%;
+}
+
+.image-4 {
+  z-index: 3;
+  width: 50px;
+  margin: 75px 0 0 1.66797%;
+}
+
+.image-5 {
+  z-index: 4;
+  width: 56px;
+  margin: 75px 0 0 1.08464%;
+}
+
+.menu-1 {
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+  background-color: rgb(0, 0, 0);
+  overflow: hidden;
+}
+
+.byline span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: 'Bohemian Typewriter';
+  font-style: normal;
+  font-size: inherit;
+  font-weight: Regular;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.h1 span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: 'Bohemian Typewriter';
+  font-style: inherit;
+  font-size: 5.625em;
+  font-weight: Regular;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.h1 strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: 'Bohemian Typewriter';
+  font-style: inherit;
+  font-size: 3.125em;
+  font-weight: Regular;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.menu span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.menu-4 span {
+  border-style: none;
+  font-size: inherit;
+}
+
+.menu-6 span {
+  font-size: inherit;
+}
+
+.menu-3 span,
+.menu-5 span,
+.menu-7 span {
+  font-size: 1.13em;
+}
+
+@media(max-width: 600px) {
+  .footer {
+    height: 401px;
+  }
+
+  .footer .byline {
+    position: relative;
+    z-index: 7;
+    margin-top: -117px;
+    margin-left: 2.08073%;
+  }
+
+  .footer .disclaimer {
+    position: relative;
+    clear: none;
+    z-index: 1;
+    width: 48.5%;
+    height: 130px;
+    margin-top: -51px;
+    margin-left: 2.08073%;
+  }
+
+  .footer .image {
+    position: relative;
+    height: auto;
+  }
+
+  .footer .purpose {
+    position: relative;
+    clear: both;
+    z-index: 0;
+    height: 161px;
+    margin-top: -33px;
+    margin-left: 59.66667%;
+  }
+
+  .main .h1 {
+    height: auto;
+    margin-top: 163px;
+    margin-left: 18.36198%;
+  }
+
+  .main .subtitle {
+    margin-top: 23px;
+    margin-left: 24.35417%;
+  }
+
+  .menu .about {
+    z-index: 17;
+    margin-top: 8px;
+    margin-left: 25.36198%;
+  }
+
+  .menu .action {
+    z-index: 13;
+    margin-top: 10px;
+  }
+
+  .menu .menu {
+    position: relative;
+  }
+
+  .menu .press {
+    z-index: 15;
+    margin-top: 8px;
+  }
+
+  .menu .resources {
+    clear: both;
+    z-index: 14;
+    margin-top: 10px;
+    margin-left: 14%;
+  }
+
+  .menu .watch {
+    z-index: 16;
+    margin-top: 8px;
+    margin-left: 1.91667%;
+  }
+
+  .main ._button {
+    margin-top: 30px;
+    margin-left: 28.58073%;
+  }
+
+  .footer .image-1 {
+    z-index: 6;
+  }
+
+  .footer .image-2 {
+    z-index: 5;
+    margin-top: 25px;
+    margin-left: 0.83073%;
+  }
+
+  .footer .image-3 {
+    z-index: 2;
+    margin-left: 4.75521%;
+  }
+
+  .footer .image-4 {
+    z-index: 3;
+    margin-left: 0.88021%;
+  }
+
+  .footer .image-5 {
+    z-index: 4;
+    margin-left: 0.33073%;
+  }
+
+  .menu-3 span {
+    font-size: 1.13em;
+  }
+}
