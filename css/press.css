@@ -279,6 +279,7 @@ body {
   border-bottom-width: 0;
   border-left-width: 0;
   border-color: transparent;
+  border-style: none;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
@@ -298,11 +299,7 @@ body {
   white-space: normal;
 }
 
-.menu-4 span {
-  border-style: none;
-  font-size: inherit;
-}
-
+.menu-4 span,
 .menu-6 span {
   font-size: inherit;
 }
